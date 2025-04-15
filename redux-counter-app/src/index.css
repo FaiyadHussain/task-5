@@ -1,0 +1,8 @@
+body {
+  font-family: 'Roboto', sans-serif; /* Material-UI default font */
+  background-color: #fafafa; /* Light background */
+}
+
+button {
+  cursor: pointer;
+}
